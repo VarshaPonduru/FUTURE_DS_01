@@ -137,4 +137,9 @@ sentiment-analysis/
 └── README.md
 🙋‍♂️ Questions?
 If you encounter issues or have questions, feel free to open an issue or ping me.
+👨‍💻 Author: Varsha Ponduru
+📧 Email: varshavrsec01@gmail.com
+
+
+
 
